@@ -39,6 +39,18 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/Ps1zyz6x/versions/V7KCULea/ScalableLux-0.1.0%2Bbeta.1%2Bfabric.fc82f44-all.jar"
+      ],
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 134515,
+      "hashes": {
+        "sha1": "bb9d460586a9aa8ca0acb63c72d7d853fb926953",
+        "sha512": "d9726175aa83b022f16af0d44dda3f0fd8477572eef3db7b02d37c177bd0427bc93bc51ad0a179f3df2f490bc86d541e1de06102835b09266c75fe993ac386f9"
+      },
+      "path": "mods/ScalableLux-0.1.0+beta.1+fabric.fc82f44-all.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/trr0scVt/versions/on1U2T4V/SmoothScrollingRefurbished%2B1.21-1.1.4.jar"
       ],
       "env": { "client": "required", "server": "unsupported" },
@@ -111,15 +123,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/1cXs6RWI/fabric-api-0.100.3%2B1.21.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/oIVA3FbL/fabric-api-0.100.4%2B1.21.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 2236205,
+      "fileSize": 2237122,
       "hashes": {
-        "sha1": "4243a5c9f936ee5c2404dc2c9e27bf119955da49",
-        "sha512": "3257d1fe02c9f7710feec955d4e91bd1de69bbe930a3779602ea7c78920ca1f9cef3c4450158cabaddc330d2d4a96a2558d8f136c770b2657886797f2452eb24"
+        "sha1": "4bf00b19252fc7c2f618340c5c50be430a230d5e",
+        "sha512": "08495ed2d502fe01719fe55f49ff0b106fddb8a92e1b17bb76b4ff1590a3c9b6b6ed601cb2a37cde0bb3139c2cabf0053fe2dd3d6ce88d266480cf34996c0b1e"
       },
-      "path": "mods/fabric-api-0.100.3+1.21.jar"
+      "path": "mods/fabric-api-0.100.4+1.21.jar"
     },
     {
       "downloads": [
@@ -171,15 +183,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Orvt0mRa/versions/w4F7PG0f/indium-1.0.33%2Bmc1.21.jar"
+        "https://cdn.modrinth.com/data/Orvt0mRa/versions/K4hsdO9H/indium-1.0.34%2Bmc1.21.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 104920,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 104921,
       "hashes": {
-        "sha1": "1ad1ca78d1185b4f702def3a0feab7bef7d943d5",
-        "sha512": "b731daebb4dbd573e8fceff0f2039c0b43ed61abc6d772f9d382f93cc27f036a7e6912ee9d22f09602d556331bea9a4729f821eed05301a2718520ab238edcf3"
+        "sha1": "cf4641206fde618f194dc0a1064b1294e385d679",
+        "sha512": "e851adea39f2b2628aa02f77c23c9ce46eca94ed23799906fe6507947cd94f8ec9c567f8516cb5a55e4d917dd85cdbd3918120a8242af4f67bd33e5aca0b7703"
       },
-      "path": "mods/indium-1.0.33+mc1.21.jar"
+      "path": "mods/indium-1.0.34+mc1.21.jar"
     },
     {
       "downloads": [
@@ -219,21 +231,21 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/nmDcB62a/versions/AFvoBfkx/modernfix-fabric-5.18.3%2Bmc1.21.jar"
+        "https://cdn.modrinth.com/data/nmDcB62a/versions/Tx3ph266/modernfix-fabric-5.18.5%2Bmc1.21.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 434670,
+      "fileSize": 416152,
       "hashes": {
-        "sha1": "dc3f962a95d65b0d92bf49ae01a73e50153193c9",
-        "sha512": "45e021ec676ba3b8dc3d895d132b76ee8a681a1d73d19677f5c22d2ca7617607a941d5c56e729c2bb242980d0e3abe8ff095d962d550f4a3f1efef0e9aff4c15"
+        "sha1": "95a0baee24767b7b343d948f1149bec6a56c31e3",
+        "sha512": "dd3552a7ac2eb55d95194395554e353e34b475a77176592928ef8557198eeeefa85a05b5601af9a55a9f1df069fd005dd3bbafb156b70264b45a35ab003c1ef3"
       },
-      "path": "mods/modernfix-fabric-5.18.3+mc1.21.jar"
+      "path": "mods/modernfix-fabric-5.18.5+mc1.21.jar"
     },
     {
       "downloads": [
         "https://cdn.modrinth.com/data/mOgUt4GM/versions/xhN1IvHi/modmenu-11.0.1.jar"
       ],
-      "env": { "client": "required", "server": "required" },
+      "env": { "client": "required", "server": "unsupported" },
       "fileSize": 975390,
       "hashes": {
         "sha1": "e4ba66f6036a4902433bb517d55120c4237c512f",
@@ -255,15 +267,27 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZXBMeSZ0/noisium-fabric-2.2.0%2Bmc1.21.jar"
+        "https://cdn.modrinth.com/data/KuNKN7d2/versions/W8V2bkLB/noisium-fabric-2.2.1%2Bmc1.21.jar"
       ],
       "env": { "client": "required", "server": "required" },
-      "fileSize": 217768,
+      "fileSize": 216139,
       "hashes": {
-        "sha1": "db6a28440987a2e6123c47933c79819b35242d99",
-        "sha512": "fdc8bf7ebca158993f92e51563fa4e2622f66cb18d11b7a17b02421203b6921a6fcc26d04ae7779ca5e76b0e452415b05c5c9b8c29ecb1331c44ea4da186db98"
+        "sha1": "f06c1a48013bb4ff1183348d4d6ab3a31988edd3",
+        "sha512": "24a280f59981f0ea8ecdc1a517ed74ac7d57e33b519e950c393061f299443e3487e4eab4dfe986a1934f38a2c636819c9f0d027c729dffccdd58ff5f8e04807b"
       },
-      "path": "mods/noisium-fabric-2.2.0+mc1.21.jar"
+      "path": "mods/noisium-fabric-2.2.1+mc1.21.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/SfMw2IZN/versions/cl0HrTL6/nvidium-0.2.9-beta.jar"
+      ],
+      "env": { "client": "required", "server": "unsupported" },
+      "fileSize": 157404,
+      "hashes": {
+        "sha1": "2ea01e5910c7273670f748e2664e948db2d77610",
+        "sha512": "ac42aaf3fbd8a63e5a8ecc1f9d7c4782722708132b8cbee2f01c226665b94e157cafa2c8d79f0f0fdbc7e7d57f32af00b251c1deccb099ae816c6326a0797788"
+      },
+      "path": "mods/nvidium-0.2.9-beta.jar"
     },
     {
       "downloads": [
@@ -291,15 +315,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ZP7xHXtw/versions/sQBrz3ML/rrls-5.0.0%2Bmc1.21-fabric.jar"
+        "https://cdn.modrinth.com/data/ZP7xHXtw/versions/1JxwJqRH/rrls-5.0.1%2Bmc1.21-fabric.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 164891,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 166690,
       "hashes": {
-        "sha1": "d923bbf2271915d36bc1229cb650d08f027a484a",
-        "sha512": "554d09c309d2ff68f598fe282d17cfea4423a4665a44e6c08d1d8ae1d6c65484326fa3ef3293b508ea53dc764378e13a972bcad1d7ff6524acc13ea634286353"
+        "sha1": "b1dbb9282b2758708005e6b08260295e5b1468b0",
+        "sha512": "da3fc3b501675aa9802e9487acb98d3191123f34f5660b281599f021fb859cd7baca3331d927619eabf506f84563bbfcbc6bb385b64f0b67767026764dd16507"
       },
-      "path": "mods/rrls-5.0.0+mc1.21-fabric.jar"
+      "path": "mods/rrls-5.0.1+mc1.21-fabric.jar"
     },
     {
       "downloads": [
@@ -327,27 +351,15 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/uvlgIwBD/versions/7ZqhEuGd/smoothskies-1.1.0.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/RncWhTxD/sodium-fabric-0.5.11%2Bmc1.21.jar"
       ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 12746,
+      "env": { "client": "required", "server": "required" },
+      "fileSize": 982671,
       "hashes": {
-        "sha1": "76dda0d3766705aeda8d0d094bc38d8bd998443c",
-        "sha512": "8e48c83695ee530144a89836d7fead2dc9cee28194abf33d76cda63b6885e875173d9a9df5f308eef6338b5b9ef7162d8591c7450982756a5040576908bfec23"
+        "sha1": "d67e66ea4bb2409997b636dae4203d33764cdcc8",
+        "sha512": "a8a4520c2891e6a3c891b0b5c1106c29851a97c8e5a0131fe94cdcdfd755b679ce55dbaeafd14638ef7987b8efcd32619209aba4460762027f1a2ebe121a4046"
       },
-      "path": "mods/smoothskies-1.1.0.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/dNHeFokL/sodium-fabric-0.5.9%2Bmc1.21.jar"
-      ],
-      "env": { "client": "required", "server": "unsupported" },
-      "fileSize": 979834,
-      "hashes": {
-        "sha1": "3b1ad241af59c32f6ed016c8a285429bfb5c5f86",
-        "sha512": "709dfe4c504ba134cc24612dd931732eb728e04888f3f751083fc5a6eae6584111c194d37a11a9856ef04203e52c8c01845ec75fec12df2daab069feba2ebec6"
-      },
-      "path": "mods/sodium-fabric-0.5.9-mc1.21.jar"
+      "path": "mods/sodium-fabric-0.5.11+mc1.21.jar"
     },
     {
       "downloads": [
@@ -402,5 +414,5 @@
   "game": "minecraft",
   "name": "Exceptionally Optimized",
   "summary": "[1.21] [Fabric📜] An open-source modpack that improves the overall UX and the game's performance and visuals, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.0.3+fabric.1.21"
+  "versionId": "1.0.4+fabric.1.21"
 }
