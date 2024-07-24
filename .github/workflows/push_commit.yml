@@ -1,0 +1,96 @@
+name: Push Commit
+
+on:
+  push:
+
+jobs:
+  upload-packs:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+
+      - name: Get short git commit SHA
+        id: vars
+        run: |
+          calculatedSha=$(git rev-parse --short ${{ github.sha }})
+          echo "COMMIT_SHORT_SHA=$calculatedSha" >> $GITHUB_ENV
+
+      - name: Mrpack forge/1.20.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/forge/1.20.1
+          dest: ExceptionallyOptimized ${{ inputs.version }}+forge.1.20.1.mrpack
+
+      - name: Mrpack neo/1.20.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/neo/1.20.1
+          dest: ExceptionallyOptimized ${{ inputs.version }}+neo.1.20.1.mrpack
+
+      - name: Mrpack fabric/1.20.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/fabric/1.20.1
+          dest: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.20.1.mrpack
+
+      - name: Mrpack fabric/1.20.4
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/fabric/1.20.4
+          dest: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.20.4.mrpack
+
+      - name: Mrpack fabric/1.20.6
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/fabric/1.20.6
+          dest: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.20.6.mrpack
+
+      - name: Mrpack fabric/1.21
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: modrinth/fabric/1.21
+          dest: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.21.mrpack
+
+      - name: Zip forge/1.20.1
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: curseforge/forge/1.20.1
+          dest: ExceptionallyOptimized ${{ inputs.version }}+forge.1.20.1.zip
+
+      - name: Zip fabric/1.20.6
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: curseforge/fabric/1.20.6
+          dest: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.20.6.zip
+
+      - name: Zip fabric/1.21
+        uses: vimtor/action-zip@v1.2
+        with:
+          files: curseforge/fabric/1.21
+          dest: ExceptionallyOptimized ${{ inputs.version }}+fabric.1.21.zip
+
+      - name: Upload Mrpacks to Github
+        uses: actions/upload-artifact@v4
+        with:
+          name: Modrinth Releases
+          path: ${{ github.workspace }}/*.mrpack
+
+      - name: Upload Zips to Github
+        uses: actions/upload-artifact@v4
+        with:
+          name: Curseforge Releases
+          path: ${{ github.workspace }}/*.zip
+
+  modrinth-desc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+
+      - uses: funnyboy-roks/modrinth-auto-desc@v1.6
+        with:
+          auth-token: ${{ secrets.MODRINTH_TOKEN }}
+          slug: 'exceptionallyoptimized'

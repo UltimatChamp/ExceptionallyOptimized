@@ -1,3 +1,9 @@
+---
+modrinth:
+  issues_url: "https://github.com/UltimatChamp/ExceptionallyOptimized/issues/new/choose"
+  source_url: "https://github.com/UltimatChamp/ExceptionallyOptimized"
+  discord_url: "https://discord.gg/kfKjjhv3pn"
+---
 # Exceptionally<font color="#1bd96a">Optimized</font>
 
 <center><img alt="Logo" width="100px" src="https://cdn.modrinth.com/data/Wn64OeXh/images/8a8ff0537f12df6be9965fdccc70eeb4aaa4e098.png"><br><br>

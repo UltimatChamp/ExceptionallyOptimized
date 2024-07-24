@@ -1,26 +1,21 @@
-## ExceptionallyOptimized [`1.0.3+fabric.1.21`]
+## ExceptionallyOptimized [`1.0.5+fabric.1.21`]
 
-🗃️**Detailed Changelog:** [**1.0.3 --> 1.0.4**](https://github.com/UltimatChamp/ExceptionallyOptimized/compare/42a8b99...1.0.4)
-
-<hr>
-
-### ⛔Unavailable Mods
-
-- **More Culling**
+🗃️**Detailed Changelog:** [**1.0.4 --> 1.0.5**](https://github.com/UltimatChamp/ExceptionallyOptimized/compare/1.0.4...1.0.5)
 
 <hr>
 
 ### 💡Added
 
-- **ScalableLux**
+- **AdvancementsScreenOptimizer**
 
 <hr>
 
 ### 🔄️Updated
 
+- **C^2ME**
+- **Cloth Config API**
 - **Fabric API**
-- **Indium**
 - **ModernFix**
-- **Noisium**
 - **Remove Reloading Screen**
-- **Sodium**
+- **ScalableLux**
+- **VMP**
