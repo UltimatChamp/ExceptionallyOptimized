@@ -1,0 +1,18 @@
+enableVsync:false
+gamma:1.0
+renderDistance:12
+simulationDistance:8
+guiScale:4
+maxFps:260
+graphicsMode:1
+resourcePacks:["file/Fast Better Grass.zip"]
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+syncChunkWrites:false
+panoramaScrollSpeed:0.1
+soundCategory_master:0.4
+soundCategory_music:0.4
+key_key.saveToolbarActivator:0
+key_key.loadToolbarActivator:0

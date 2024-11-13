@@ -1,0 +1,39 @@
+{
+  "author": "UltimatChamp",
+  "files": [
+    { "fileID": 5894668, "projectID": 686911, "required": true },
+    { "fileID": 5885743, "projectID": 634062, "required": true },
+    { "fileID": 5850974, "projectID": 1055925, "required": true },
+    { "fileID": 5837273, "projectID": 968684, "required": true },
+    { "fileID": 5894011, "projectID": 533097, "required": true },
+    { "fileID": 5834706, "projectID": 348521, "required": true },
+    { "fileID": 5855570, "projectID": 975120, "required": true },
+    { "fileID": 5866476, "projectID": 448233, "required": true },
+    { "fileID": 5897810, "projectID": 306612, "required": true },
+    { "fileID": 5802211, "projectID": 308769, "required": true },
+    { "fileID": 5850347, "projectID": 459857, "required": true },
+    { "fileID": 5848906, "projectID": 1005914, "required": true },
+    { "fileID": 5852964, "projectID": 527334, "required": true },
+    { "fileID": 5889581, "projectID": 360438, "required": true },
+    { "fileID": 5287107, "projectID": 618812, "required": true },
+    { "fileID": 5810609, "projectID": 308702, "required": true },
+    { "fileID": 5891397, "projectID": 630104, "required": true },
+    { "fileID": 5874931, "projectID": 930207, "required": true },
+    { "fileID": 5849277, "projectID": 511319, "required": true },
+    { "fileID": 5889549, "projectID": 833233, "required": true },
+    { "fileID": 5340851, "projectID": 968681, "required": true },
+    { "fileID": 5896149, "projectID": 394468, "required": true },
+    { "fileID": 5853186, "projectID": 552542, "required": true },
+    { "fileID": 4581910, "projectID": 374274, "required": true },
+    { "fileID": 5822057, "projectID": 819030, "required": true }
+  ],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "minecraft": {
+    "modLoaders": [{ "id": "fabric-0.16.9", "primary": true }],
+    "version": "1.21.3"
+  },
+  "name": "ExceptionallyOptimized",
+  "overrides": "overrides",
+  "version": "1.1.0+fabric.1.21.3"
+}
