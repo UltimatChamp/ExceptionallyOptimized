@@ -2,10 +2,10 @@
   "main_menu": {
     "bottom_right": [
       {
-        "text": "ExceptionallyOptimized v1.1.0+fabric.1.21.3",
+        "text": "ExceptionallyOptimized v1.1.1+fabric.1.21.3",
         "clickEvent": {
           "action": "open_url",
-          "value": "https://modrinth.com/modpack/exceptionallyoptimized/version/1.1.0+fabric.1.21.3"
+          "value": "https://modrinth.com/modpack/exceptionallyoptimized/version/1.1.1+fabric.1.21.3"
         }
       }
     ]

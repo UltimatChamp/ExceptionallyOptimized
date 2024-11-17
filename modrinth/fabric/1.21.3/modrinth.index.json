@@ -6,11 +6,26 @@
   "files": [
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/owbCjycO/ImmediatelyFast-Fabric-1.3.2%2B1.21.3.jar"
+        "https://cdn.modrinth.com/data/ohNO6lps/versions/rfzwvtf5/ForgeConfigAPIPort-v21.3.2-1.21.3-Fabric.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
+      },
+      "fileSize": 640194,
+      "hashes": {
+        "sha1": "8e8040ee4419cebccd731bd79a6c29dfb385dddf",
+        "sha512": "d34f6c3c7e9fa0c4f9ec4f5c203d0ceeac0b4acd9fffa62ecfeb1ae6efe72ac85d8ecb7fb106ab9a1ed3f6de0faa4863c13e2365f524f71dc3c3f50f95355d15"
+      },
+      "path": "mods/ForgeConfigAPIPort-v21.3.2-1.21.3-Fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/owbCjycO/ImmediatelyFast-Fabric-1.3.2%2B1.21.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "unsupported"
       },
       "fileSize": 211823,
       "hashes": {
@@ -55,7 +70,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 10609,
       "hashes": {
@@ -66,18 +81,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/FNiy6G7Q/c2me-fabric-mc1.21.3-0.3.1%2Balpha.0.11.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/IyNEd9z3/c2me-fabric-mc1.21.3-0.3.1%2Balpha.0.17.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 4644095,
+      "fileSize": 4656556,
       "hashes": {
-        "sha1": "37ce16356d893cabde0dd11b47ba3fa6b2483f61",
-        "sha512": "90f6bdccb2fa9c14d668341656d0c43394426a8078d1ada55de26632ad14a7294b23773789d5564e731e1a41fea116f4373c5550551c3539b4dd531e383f7af2"
+        "sha1": "9ef8e66d8459c2dc5b9bfa53fe55031c0c0e667d",
+        "sha512": "0eafd36b5f37bb414eed52205cde56189d891d045471af8cd6458941cfa333216a71549cc7a0ade496b6ee53cdaa1279e20c6ddc63216cf1af2b9ffd383008ab"
       },
-      "path": "mods/c2me-fabric-mc1.21.3-0.3.1+alpha.0.11.jar"
+      "path": "mods/c2me-fabric-mc1.21.3-0.3.1+alpha.0.17.jar"
     },
     {
       "downloads": [
@@ -100,7 +115,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 80793,
       "hashes": {
@@ -190,7 +205,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 72991,
       "hashes": {
@@ -201,18 +216,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2Ea7RMWZ/lithium-fabric-0.14.1-snapshot%2Bmc1.21.3-build.89.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/QhCwdt4l/lithium-fabric-0.14.2-snapshot%2Bmc1.21.3-build.91.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 736286,
+      "fileSize": 740091,
       "hashes": {
-        "sha1": "e46b73645308be4881e9501ad25122c759c28e4e",
-        "sha512": "d122b23a520cb2573c2eaba9556c07846ae5f2f8ee9aabdf5dce914334e44027a273c8cf2ef2243fe03cf86a8858eab2ddcc247d95661dee40cd783cf444aeff"
+        "sha1": "662e0d16a0ba7c4f1a61c8564b67cabcc7e1e175",
+        "sha512": "6c025877e0f5de8f87baca0be08e19bbad8fb7f6e2037d064f2497fd9779cdc3b979dfc80d228374934ef84014949c9cb4740c816cac0ac9ad0d566d1d7e4f0e"
       },
-      "path": "mods/lithium-fabric-0.14.1-snapshot+mc1.21.3-build.89.jar"
+      "path": "mods/lithium-fabric-0.14.2-snapshot+mc1.21.3-build.91.jar"
     },
     {
       "downloads": [
@@ -235,7 +250,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 981862,
       "hashes": {
@@ -250,7 +265,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 328661,
       "hashes": {
@@ -276,33 +291,33 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Bh37bMuy/versions/WeqF4XuB/reeses-sodium-options-fabric-1.8.0-beta.5%2Bmc1.21.3.jar"
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/4sugrjBi/reeses-sodium-options-fabric-1.8.0%2Bmc1.21.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 79541,
+      "fileSize": 80972,
       "hashes": {
-        "sha1": "f9d32d1e7268c734cf617a89c18ba2849fd14c1f",
-        "sha512": "5132bcc22ca563d2140484f598a96119aea0ddc9de6edd5597a8283f6e1e0cb6522fd1a56fd7cb26a7caf4df42184ed406a23ed180082edfa9cca097cee7eceb"
+        "sha1": "17babc1f306bab306eeae6513e6b66f74592f906",
+        "sha512": "d75be4d00704e714ce335b8b7c42f662c48d6f133508e095bcea12651853a2aa68ca33d4b096bfc9d86e9dbfb43d86fb741180174d4700b396ffdb0c7c6543e9"
       },
-      "path": "mods/reeses-sodium-options-fabric-1.8.0-beta.5+mc1.21.3.jar"
+      "path": "mods/reeses-sodium-options-fabric-1.8.0+mc1.21.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ZP7xHXtw/versions/3VUNm2eZ/rrls-5.0.10%2Bmc1.21.3-fabric.jar"
+        "https://cdn.modrinth.com/data/ZP7xHXtw/versions/4kb30Vsy/rrls-5.0.11%2Bmc1.21.3-fabric.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 170576,
+      "fileSize": 171176,
       "hashes": {
-        "sha1": "5b9457798337e991a526a60ccb2a53784789959a",
-        "sha512": "09b0aad7b81b9bdaddd0a68f2190dc716576e6e5ec9c821e4c4ffc1ac9aefa72665afca9c26f1bcf6c86bf4d0a9a8ef05a43f1384d8a9212922dff226d83d8d2"
+        "sha1": "6a605913a453845a18b6a38d5b9445374bcb86e1",
+        "sha512": "99a549b0f71e6bf389812e7b2b583fe9635b860ff6a100480b2f55af552bc3af9b45df30b315aa1ced360d84b40bdbead5cf492ed21b9604a3ab2f01b12b779c"
       },
-      "path": "mods/rrls-5.0.10+mc1.21.3-fabric.jar"
+      "path": "mods/rrls-5.0.11+mc1.21.3-fabric.jar"
     },
     {
       "downloads": [
@@ -310,7 +325,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 7160,
       "hashes": {
@@ -321,18 +336,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/hBlmTLJR/sodium-fabric-0.6.0-beta.5%2Bmc1.21.3.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/SzAjFUSx/sodium-fabric-0.6.0%2Bmc1.21.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1280205,
+      "fileSize": 1280198,
       "hashes": {
-        "sha1": "794ba1b27e2b6938bb73a90cc8179cda67e2bea9",
-        "sha512": "4258c1d1e6b179ff221de8968e1ada50fe7568be7c844890742be1148087307c239f46696278db0f5a52ab4863b1e51638d6589f9563c694d92cf912ee63ec1e"
+        "sha1": "b99e4f3ae1b2d1b04e039858d1b554e6afa7bd65",
+        "sha512": "c1ec717a059a13f7ca6acba1ed7e58b91d14d33523f91c715097502c6b0ffc20452572f7f9a0008429381cc943c3a7ed5b6ad106f05891f0d508a67a9fff3fad"
       },
-      "path": "mods/sodium-fabric-0.6.0-beta.5+mc1.21.3.jar"
+      "path": "mods/sodium-fabric-0.6.0+mc1.21.3.jar"
     },
     {
       "downloads": [
@@ -384,5 +399,5 @@
   "game": "minecraft",
   "name": "ExceptionallyOptimized",
   "summary": "[1.21.3] [Fabric📜] An open-source modpack that improves the overall UX and the game's performance and visuals, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.1.0+fabric.1.21.3"
+  "versionId": "1.1.1+fabric.1.21.3"
 }

@@ -1,6 +1,6 @@
-## ExceptionallyOptimized [`1.1.0+fabric.1.21.3`]
+## ExceptionallyOptimized [`1.1.1+fabric.1.21.3`]
 
-🗃️**Detailed Changelog:** [**1.0.5 --> 1.1.0**](https://github.com/UltimatChamp/ExceptionallyOptimized/compare/1.0.5...1.1.0)
+🗃️**Detailed Changelog:** [**1.1.0 --> 1.1.1**](https://github.com/UltimatChamp/ExceptionallyOptimized/compare/1.1.0...1.1.1)
 
 <hr>
 
@@ -12,10 +12,20 @@
 
 ### 🛠️Notes/Changes
 
-- Sorry for keeping you waiting for **4 months**!
-- I'll try to maintain this pack again, and you should expect weekly _(or earlier)_ updates.
-- This is not exactly a "rewrite". A lot of changes have been made to the pack, which will not make any sense to document here.
-- Also, I'm lazy.
+- **Sodium** `0.6.0` is now officially **stable**.
 
+<hr>
 
-- Port to 1.21.3.
+### Added
+
+- **Forge Config API Port** _(New **Remove Reloading Screen** dependency)_
+
+<hr>
+
+### 🔄️Updated
+
+- **Concurrent Chunk Management Engine (Fabric)**
+- **Lithium**
+- **Reese's Sodium Options**
+- **Remove Reloading Screen**
+- **Sodium**
