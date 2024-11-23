@@ -81,18 +81,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/IyNEd9z3/c2me-fabric-mc1.21.3-0.3.1%2Balpha.0.17.jar"
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/7kFghZIF/c2me-fabric-mc1.21.3-0.3.1%2Balpha.0.19.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 4656556,
+      "fileSize": 4654039,
       "hashes": {
-        "sha1": "9ef8e66d8459c2dc5b9bfa53fe55031c0c0e667d",
-        "sha512": "0eafd36b5f37bb414eed52205cde56189d891d045471af8cd6458941cfa333216a71549cc7a0ade496b6ee53cdaa1279e20c6ddc63216cf1af2b9ffd383008ab"
+        "sha1": "410e6615629c9cec46d3a7d1c9815189314cfb4a",
+        "sha512": "c1937b468f8cf67b71cb23b0ad7bc6d87614ecfd4750e1931a0510b201c8c30c38d644fc25e0cc4602cdb93e3b11b72d52001bd761a8de91770d3a006f6bbcca"
       },
-      "path": "mods/c2me-fabric-mc1.21.3-0.3.1+alpha.0.17.jar"
+      "path": "mods/c2me-fabric-mc1.21.3-0.3.1+alpha.0.19.jar"
     },
     {
       "downloads": [
@@ -141,18 +141,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/kwP1bhmH/fabric-api-0.108.0%2B1.21.3.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/Xhw2LuSh/fabric-api-0.109.0%2B1.21.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2344167,
+      "fileSize": 2344945,
       "hashes": {
-        "sha1": "92bfd6b9964972d5c415102437a8142e71823ead",
-        "sha512": "1061dfff721a9a0fcc697cd002c7f7ab24feb47e966dd95d85027898d6dc547f9c725bd565c5929c544bdfaeb630b5073f4bf3c1bf93baa9bbf0b0eff45aae27"
+        "sha1": "5f6915e9f292809b1170546a8845e4062c1713ff",
+        "sha512": "decfcbcc4cc9748b9822a5e0b34dada9e1454bbf7c0eb1d4e014db243e8eebaa240a05a48c1bcde232ddecf150692fe295f9bb147794c861e42d2cad66119657"
       },
-      "path": "mods/fabric-api-0.108.0+1.21.3.jar"
+      "path": "mods/fabric-api-0.109.0+1.21.3.jar"
     },
     {
       "downloads": [
@@ -261,18 +261,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/51shyZVL/versions/yPwaJRxo/moreculling-fabric-1.21.3-1.1.0-beta.3.jar"
+        "https://cdn.modrinth.com/data/51shyZVL/versions/YnqEEVHM/moreculling-fabric-1.21.3-1.1.0.jar"
       ],
       "env": {
         "client": "required",
-        "server": "unsupported"
+        "server": "required"
       },
-      "fileSize": 328661,
+      "fileSize": 328652,
       "hashes": {
-        "sha1": "e80ff0b88bec1b37ffb4054173cc3bdf8f110be4",
-        "sha512": "2181523bd22c17659e5dae25f9eca0c0804833faab60e6d13a20edc2f907a708f33636963d598cb2ebe21f85582d25f06e2208d78010bdedc577253122c4a841"
+        "sha1": "7a765571bb0aefb470cc15d3325d28d3b489c57e",
+        "sha512": "6aee3a620e6c8399e587a9e8bf69f740c4c66d291ddad98412280e8a490a8defb11204af8c9b47de056028436aff83d4b571b4938057cc1e0b4ac1073f8c8471"
       },
-      "path": "mods/moreculling-fabric-1.21.3-1.1.0-beta.3.jar"
+      "path": "mods/moreculling-fabric-1.21.3-1.1.0.jar"
     },
     {
       "downloads": [
@@ -295,7 +295,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 80972,
       "hashes": {
@@ -310,7 +310,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 171176,
       "hashes": {
@@ -340,7 +340,7 @@
       ],
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "fileSize": 1280198,
       "hashes": {
@@ -397,7 +397,7 @@
   ],
   "formatVersion": 1,
   "game": "minecraft",
-  "name": "ExceptionallyOptimized",
+  "name": "ExceptionallyOptimized - Fabric",
   "summary": "[1.21.3] [Fabric📜] An open-source modpack that improves the overall UX and the game's performance and visuals, while staying true to the vanilla Minecraft experience.",
-  "versionId": "1.1.1+fabric.1.21.3"
+  "versionId": "1.1.2+fabric.1.21.3"
 }
